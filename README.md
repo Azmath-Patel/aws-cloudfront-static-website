@@ -42,6 +42,10 @@ This project demonstrates how to **host a static website on AWS S3** and deliver
 
 ## 📸 Screenshots
 (Add screenshots of your AWS console showing S3 bucket and CloudFront distribution)
+![Screenshots](screenshot1.png)
+![Screenshots](screenshot2.png)
+![Screenshots](screenshot3.png)
+![Screenshots](screenshot4.png)
 
 ---
 
