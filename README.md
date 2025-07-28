@@ -37,3 +37,12 @@ This project demonstrates how to **host a static website on AWS S3** and deliver
    - Origin: Your S3 bucket
    - Default root object: `index.html`
 4. Wait for CloudFront to deploy, then access the site using:
+
+
+
+## 📸 Screenshots
+(Add screenshots of your AWS console showing S3 bucket and CloudFront distribution)
+
+---
+
+### Author: Azmath Patel
